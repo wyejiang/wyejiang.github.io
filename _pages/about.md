@@ -27,7 +27,7 @@ redirect_from:
 
 [1] **Wang, Y.**, Zhao, Y.*, Wang, Z., Zhang, C., & Wang, X. (2024). Robust multi-graph multi-label learning with dual-granularity labeling. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [TPAMI, **CCF-A**, IF: 20.4]
 
-[2] **Wang, Y.**, Zhao, Y.*, Wang, Z., Pan, S., Wang, X., et al. (2025). Equivalence is all: A unified view for self-supervised graph learning. In *International Conference on Machine Learning*. [**ICML Oral** | **Top 1%**, **CCF-A**]
+[2] **Wang, Y.**, Zhao, Y.*, Wang, Z., Pan, S., Wang, X., et al. (2025). Equivalence is all: A unified view for self-supervised graph learning. In *International Conference on Machine Learning*. [**ICML Oral** \| **Top 1%**, **CCF-A**]
 
 [3] **Wang, Y.**, Zhao, Y.*, Wang, Z., Pan, S., Wang, X., et al. (2025). N2GON: Neural networks for graph-of-net with position awareness. In *International Conference on Machine Learning*. [ICML, **CCF-A**]
 
